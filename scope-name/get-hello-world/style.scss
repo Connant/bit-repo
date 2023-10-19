@@ -1,0 +1,17 @@
+body {
+  min-width: 100vw;
+  min-height: 100vh;
+  background-image: url("./1.svg");
+  background-size: cover;
+}
+
+.button {
+  margin: 50px 100px;
+  background-color: #9A9A9A;
+  font-family: "Gill Sans", -apple-system, sans-serif;
+  cursor: pointer;
+
+  &:hover {
+    background-color: #95C7CC;
+  }
+}

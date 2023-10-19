@@ -101,6 +101,20 @@
             }
         }
     },
+    "themes/theme-provider": {
+        "name": "themes/theme-provider",
+        "scope": "",
+        "version": "",
+        "defaultScope": "org.scope-name",
+        "mainFile": "index.ts",
+        "rootDir": "scope-name/themes/theme-provider",
+        "config": {
+            "teambit.react/react-env@1.0.16": {},
+            "teambit.envs/envs": {
+                "env": "teambit.react/react-env"
+            }
+        }
+    },
     "ui/hello-world": {
         "name": "ui/hello-world",
         "scope": "",

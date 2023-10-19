@@ -38,6 +38,7 @@
     "packageManager": "teambit.dependencies/pnpm",
     "policy": {
       "dependencies": {
+        "@teambit/base-react.theme.theme-provider": "^1.96.6",
         "@teambit/defender.eslint-linter": "1.0.8",
         "@teambit/defender.jest-tester": "1.0.6",
         "@teambit/defender.prettier-formatter": "1.0.2",
